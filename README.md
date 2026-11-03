@@ -20,3 +20,8 @@ This project demonstrates how to build and run a Python-based addition applicati
 
 ```bash
 docker build -t adder-app .
+
+## Running the Docker Container
+
+```bash
+docker run -it adder-app
